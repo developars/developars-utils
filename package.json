@@ -1,0 +1,23 @@
+{
+  "name": "@developars/utils",
+  "version": "1.0.0",
+  "description": "Developars.club Project - Database utils package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/developars/developars-utils.git"
+  },
+  "keywords": [
+    "logger",
+    "cache"
+  ],
+  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://carlosazaustre.es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developars/developars-utils/issues"
+  },
+  "homepage": "https://github.com/developars/developars-utils#readme"
+}
