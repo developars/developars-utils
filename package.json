@@ -23,7 +23,10 @@
   "dependencies": {
     "bole": "^3.0.2",
     "chalk": "^2.4.1",
+    "lru-cache": "^5.1.1",
     "morgan": "^1.9.1",
-    "stream-file-archive": "^1.1.4"
+    "stream-file-archive": "^1.1.4",
+    "through2": "^3.0.0",
+    "uuid": "^3.3.2"
   }
 }
