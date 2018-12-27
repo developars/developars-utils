@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/developars/developars-utils/issues"
   },
-  "homepage": "https://github.com/developars/developars-utils#readme"
+  "homepage": "https://github.com/developars/developars-utils#readme",
+  "dependencies": {
+    "bole": "^3.0.2",
+    "chalk": "^2.4.1",
+    "morgan": "^1.9.1",
+    "stream-file-archive": "^1.1.4"
+  }
 }
