@@ -32,5 +32,8 @@
   },
   "devDependencies": {
     "standard": "^12.0.1"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
