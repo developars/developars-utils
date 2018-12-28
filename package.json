@@ -4,7 +4,8 @@
   "description": "Developars.club Project - Database utils package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run lint",
+    "lint": "standard"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,8 @@
     "stream-file-archive": "^1.1.4",
     "through2": "^3.0.0",
     "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
   }
 }
